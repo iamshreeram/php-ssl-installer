@@ -23,7 +23,7 @@ php bin/acme issue --domains yourdomain.com:www.youdomain.com --path /home/x1230
 Certificate : `/home/x123011738/acme-client/data/certs/acme-v01.api.letsencrypt.org.directory/yourdomain.com/fullchain.pem`
 private key : `/home/x123011738/acme-client/data/certs/acme-v01.api.letsencrypt.org.directory/yourdomain.com/key.pem`
 
-## [Add CRT and privatekey in hostinger]
+## Add CRT and privatekey in hostinger
 
 ## Checking expiration date and renewing SSL certificate
 php acme-client/bin/acme check --name yourdomain.com --server letsencrypt
