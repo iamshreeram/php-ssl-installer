@@ -1,5 +1,5 @@
 # php-ssl-installer
-Steps to install SSL certificate in hostinger 
+This is fork of [this gist](https://gist.github.com/iamshreeram/a67abbbd23d56d058786c5530834086b/forks). Steps to install SSL certificate in hostinger.  
 
 ### Enable SSH :
 ```
